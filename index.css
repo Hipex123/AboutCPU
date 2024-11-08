@@ -1,3 +1,9 @@
-h1{
-    font-size: 1000px;
+body
+{
+    background-color: rgb(14,26,45);
+}
+h1
+{
+    color: rgb(240, 245, 255);
+    font-size: 70px;
 }
